@@ -1,6 +1,6 @@
 # checkout-Vue
-购物车Vue2.0
-## Vue-resource
+### Vue2.0
+### Vue-resource
 #### 使用v-for指令渲染商品列表 
 #### Vue 过滤器
 #### 1.单件商品金额计算和单选全选功能
